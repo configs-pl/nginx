@@ -10,6 +10,7 @@
 3009:	fb.thingtosell.com
 3010:	iot.pointlook.com
 3011:	dev.thingtosell.com
+3012:	weebly.pointlook.com
 
 8888:	www.pointlook.com
 
