@@ -1,1 +1,0 @@
-../sites-available/db.pointlook.com

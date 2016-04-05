@@ -1,1 +1,0 @@
-../sites-available/findme.pointlook.com

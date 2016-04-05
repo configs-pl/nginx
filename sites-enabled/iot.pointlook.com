@@ -1,1 +1,0 @@
-../sites-available/iot.pointlook.com
